@@ -1,0 +1,5 @@
+please go to folder that name chat. 
+and this folder is documentation about 
+the app.The is using from python and to use it you need to run python file that call server.py and you
+need to download socket 
+library first and done you have made itgoodluck :)  
